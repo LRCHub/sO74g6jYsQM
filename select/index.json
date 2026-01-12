@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "浮気されたけどまだ好きって曲。",
+  "base_artist": "りりあ。",
+  "createdAt": "2026-01-12T15:49:30.697948Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "浮気されたけどまだ好きって曲。 (Remastering)",
+      "artist": "りりあ。",
+      "has_synced": true,
+      "path": "select/01_浮気されたけどまだ好きって曲。_(Remastering)_りりあ。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "浮気されたけどまだ好きって曲。 (Remastering)",
+      "artist": "Riria",
+      "has_synced": true,
+      "path": "select/02_浮気されたけどまだ好きって曲。_(Remastering)_Riria.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "浮気されたけどまだ好きって曲。",
+      "artist": "Riria.",
+      "has_synced": true,
+      "path": "select/03_浮気されたけどまだ好きって曲。_Riria..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "浮気されたけどまだ好きって曲。",
+      "artist": "りりあ。",
+      "has_synced": true,
+      "path": "select/04_浮気されたけどまだ好きって曲。_りりあ。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "浮気されたけどまだ好きって曲。",
+      "artist": "りりあ。",
+      "has_synced": false,
+      "path": "select/pl_01_浮気されたけどまだ好きって曲。_りりあ。.txt"
+    }
+  ]
+}
